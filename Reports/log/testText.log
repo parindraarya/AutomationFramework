@@ -1,0 +1,159 @@
+2020-06-08 17:02:33,300 [main] INFO ActionKeywords - Browser is opening
+2020-06-08 17:02:43,787 [main] INFO ActionKeywords - Going to url
+2020-06-08 17:02:44,516 [main] INFO ActionKeywords - Click
+2020-06-08 17:02:46,969 [main] INFO ActionKeywords - Element present
+2020-06-08 17:02:49,422 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:02:49,422 [main] INFO ActionKeywords - Close browser
+2020-06-08 17:03:03,504 [main] INFO ActionKeywords - Browser is opening
+2020-06-08 17:03:07,712 [main] INFO ActionKeywords - Going to url
+2020-06-08 17:03:08,273 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:03:08,755 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:03:09,297 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:03:09,804 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:03:10,435 [main] INFO ActionKeywords - Click
+2020-06-08 17:03:12,859 [main] INFO ActionKeywords - Element present
+2020-06-08 17:03:15,339 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:03:15,339 [main] INFO ActionKeywords - Close browser
+2020-06-08 17:03:29,361 [main] INFO ActionKeywords - Browser is opening
+2020-06-08 17:03:34,255 [main] INFO ActionKeywords - Going to url
+2020-06-08 17:03:34,745 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:03:35,213 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:03:35,732 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:03:36,254 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:03:36,777 [main] INFO ActionKeywords - Click
+2020-06-08 17:03:37,325 [main] INFO ActionKeywords - Click
+2020-06-08 17:03:39,767 [main] INFO ActionKeywords - Element present
+2020-06-08 17:03:42,164 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:03:42,164 [main] INFO ActionKeywords - Close browser
+2020-06-08 17:03:56,227 [main] INFO ActionKeywords - Browser is opening
+2020-06-08 17:04:01,163 [main] INFO ActionKeywords - Going to url
+2020-06-08 17:04:03,714 [main] INFO ActionKeywords - Click
+2020-06-08 17:04:06,148 [main] INFO ActionKeywords - Element present
+2020-06-08 17:04:08,552 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:04:08,552 [main] INFO ActionKeywords - Close browser
+2020-06-08 17:04:22,714 [main] INFO ActionKeywords - Browser is opening
+2020-06-08 17:04:26,307 [main] INFO ActionKeywords - Going to url
+2020-06-08 17:04:26,799 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:04:27,258 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:04:42,688 [main] ERROR ActionKeywords - Not clicking
+2020-06-08 17:04:45,085 [main] INFO ActionKeywords - Element present
+2020-06-08 17:04:47,480 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:04:47,480 [main] INFO ActionKeywords - Close browser
+2020-06-08 17:05:01,765 [main] INFO ActionKeywords - Browser is opening
+2020-06-08 17:05:05,435 [main] INFO ActionKeywords - Going to url
+2020-06-08 17:05:07,379 [main] INFO ActionKeywords - Click
+2020-06-08 17:05:07,867 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:08,322 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:08,797 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:09,277 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:09,769 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:10,213 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:10,714 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:11,201 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:11,670 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:14,903 [main] INFO ActionKeywords - Click
+2020-06-08 17:05:17,304 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:05:17,304 [main] INFO ActionKeywords - Close browser
+2020-06-08 17:05:27,325 [main] INFO ActionKeywords - Browser is opening
+2020-06-08 17:05:31,005 [main] INFO ActionKeywords - Going to url
+2020-06-08 17:05:33,200 [main] INFO ActionKeywords - Click
+2020-06-08 17:05:33,698 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:34,117 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:34,599 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:35,078 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:35,566 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:36,017 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:36,469 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:36,960 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:37,412 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:41,246 [main] INFO ActionKeywords - Click
+2020-06-08 17:05:43,689 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:05:46,660 [main] INFO ActionKeywords - Click
+2020-06-08 17:05:47,115 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:47,588 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:05:50,990 [main] INFO ActionKeywords - Click
+2020-06-08 17:05:53,385 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:05:53,385 [main] INFO ActionKeywords - Close browser
+2020-06-08 17:06:03,359 [main] INFO ActionKeywords - Browser is opening
+2020-06-08 17:06:07,260 [main] INFO ActionKeywords - Going to url
+2020-06-08 17:06:09,207 [main] INFO ActionKeywords - Click
+2020-06-08 17:06:09,712 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:06:10,173 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:06:10,635 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:06:11,203 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:06:11,704 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:06:12,172 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:06:12,614 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:06:13,145 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:06:13,627 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:06:17,628 [main] INFO ActionKeywords - Click
+2020-06-08 17:06:20,077 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:06:22,797 [main] INFO ActionKeywords - Click
+2020-06-08 17:06:24,536 [main] INFO ActionKeywords - Click
+2020-06-08 17:06:26,887 [main] INFO ActionKeywords - Click
+2020-06-08 17:06:29,344 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:06:31,757 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:06:31,757 [main] INFO ActionKeywords - Close browser
+2020-06-08 17:06:41,776 [main] INFO ActionKeywords - Browser is opening
+2020-06-08 17:06:45,340 [main] INFO ActionKeywords - Going to url
+2020-06-08 17:06:47,458 [main] INFO ActionKeywords - Click
+2020-06-08 17:06:47,928 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:06:48,365 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:06:48,872 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:06:49,326 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:06:49,832 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:06:50,336 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:06:50,825 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:06:51,304 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:06:51,795 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:06:54,820 [main] INFO ActionKeywords - Click
+2020-06-08 17:06:57,259 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:06:59,734 [main] INFO ActionKeywords - Click
+2020-06-08 17:07:01,638 [main] INFO ActionKeywords - Click
+2020-06-08 17:07:04,209 [main] INFO ActionKeywords - Click
+2020-06-08 17:07:06,614 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:07:09,024 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:07:11,955 [main] INFO ActionKeywords - Click
+2020-06-08 17:07:14,407 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:07:17,005 [main] INFO ActionKeywords - Click
+2020-06-08 17:07:17,005 [main] INFO ActionKeywords - Close browser
+2020-06-08 17:07:27,217 [main] INFO ActionKeywords - Browser is opening
+2020-06-08 17:07:30,849 [main] INFO ActionKeywords - Going to url
+2020-06-08 17:07:33,121 [main] INFO ActionKeywords - Click
+2020-06-08 17:07:35,605 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:07:38,648 [main] INFO ActionKeywords - Click
+2020-06-08 17:07:38,648 [main] INFO ActionKeywords - Close browser
+2020-06-08 17:07:48,663 [main] INFO ActionKeywords - Browser is opening
+2020-06-08 17:07:51,599 [main] INFO ActionKeywords - Going to url
+2020-06-08 17:07:54,380 [main] INFO ActionKeywords - Click
+2020-06-08 17:07:55,102 [main] INFO ActionKeywords - Click
+2020-06-08 17:07:57,723 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:07:57,723 [main] INFO ActionKeywords - Close browser
+2020-06-08 17:08:07,829 [main] INFO ActionKeywords - Browser is opening
+2020-06-08 17:08:11,246 [main] INFO ActionKeywords - Going to url
+2020-06-08 17:08:13,101 [main] INFO ActionKeywords - Click
+2020-06-08 17:08:13,830 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:08:14,500 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:08:15,216 [main] INFO ActionKeywords - Click
+2020-06-08 17:08:17,844 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:08:17,844 [main] INFO ActionKeywords - Close browser
+2020-06-08 17:08:27,844 [main] INFO ActionKeywords - Browser is opening
+2020-06-08 17:08:30,648 [main] INFO ActionKeywords - Going to url
+2020-06-08 17:08:33,042 [main] INFO ActionKeywords - Click
+2020-06-08 17:08:33,737 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:08:34,419 [main] INFO ActionKeywords - Click
+2020-06-08 17:08:37,056 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:08:37,056 [main] INFO ActionKeywords - Close browser
+2020-06-08 17:08:47,071 [main] INFO ActionKeywords - Browser is opening
+2020-06-08 17:08:49,947 [main] INFO ActionKeywords - Going to url
+2020-06-08 17:08:52,506 [main] INFO ActionKeywords - Click
+2020-06-08 17:08:52,968 [main] INFO ActionKeywords - Click
+2020-06-08 17:08:55,427 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:08:55,428 [main] INFO ActionKeywords - Close browser
+2020-06-08 17:09:05,511 [main] INFO ActionKeywords - Browser is opening
+2020-06-08 17:09:08,593 [main] INFO ActionKeywords - Going to url
+2020-06-08 17:09:11,170 [main] INFO ActionKeywords - Click
+2020-06-08 17:09:11,645 [main] INFO ActionKeywords - Enter data
+2020-06-08 17:09:12,092 [main] INFO ActionKeywords - Click
+2020-06-08 17:09:14,497 [main] INFO ActionKeywords - Text matching
+2020-06-08 17:09:14,497 [main] INFO ActionKeywords - Close browser

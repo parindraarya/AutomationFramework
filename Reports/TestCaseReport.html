@@ -1,0 +1,109 @@
+<html> <style>
+table {border-collapse: collapse; width: 100%;}
+th, td {padding: 8px; text-align: left; border-bottom: 1px solid #ddd;}
+tr:hover {background-color:#f5f5f5;}
+th{background-color: #3A3948; color: white;}
+</style><table>
+<tr>
+<th>Test Case Name</th>
+<th>Starting Time</th>
+<th>Ending Time</th>
+<th>More Details</th>
+</tr><tr>
+<td>FbInvalid1</td>
+<td>08_06_2020_17_02_22</td>
+<td>08_06_2020_17_02_53</td>
+<td><a href="./Custom/TestCase1.html">TestCase</a></td>
+</tr><tr>
+<td>FbInvalid2</td>
+<td>08_06_2020_17_02_53</td>
+<td>08_06_2020_17_03_19</td>
+<td><a href="./Custom/TestCase2.html">TestCase</a></td>
+</tr><tr>
+<td>FbInvalid3</td>
+<td>08_06_2020_17_03_19</td>
+<td>08_06_2020_17_03_46</td>
+<td><a href="./Custom/TestCase3.html">TestCase</a></td>
+</tr><tr>
+<td>FbInvalid4</td>
+<td>08_06_2020_17_03_46</td>
+<td>08_06_2020_17_04_12</td>
+<td><a href="./Custom/TestCase4.html">TestCase</a></td>
+</tr><tr>
+<td>FbInvalid5</td>
+<td>08_06_2020_17_04_13</td>
+<td>08_06_2020_17_04_51</td>
+<td><a href="./Custom/TestCase5.html">TestCase</a></td>
+</tr><tr>
+<td>NewTour1</td>
+<td>08_06_2020_17_04_51</td>
+<td>08_06_2020_17_05_17</td>
+<td><a href="./Custom/TestCase6.html">TestCase</a></td>
+</tr><tr>
+<td>NewTour2</td>
+<td>08_06_2020_17_05_17</td>
+<td>08_06_2020_17_05_53</td>
+<td><a href="./Custom/TestCase7.html">TestCase</a></td>
+</tr><tr>
+<td>NewTour3</td>
+<td>08_06_2020_17_05_53</td>
+<td>08_06_2020_17_06_31</td>
+<td><a href="./Custom/TestCase8.html">TestCase</a></td>
+</tr><tr>
+<td>NewTour4</td>
+<td>08_06_2020_17_06_32</td>
+<td>08_06_2020_17_07_17</td>
+<td><a href="./Custom/TestCase9.html">TestCase</a></td>
+</tr><tr>
+<td>NewTour5</td>
+<td>08_06_2020_17_07_17</td>
+<td>08_06_2020_17_07_38</td>
+<td><a href="./Custom/TestCase10.html">TestCase</a></td>
+</tr><tr>
+<td>LI1</td>
+<td>08_06_2020_17_07_38</td>
+<td>08_06_2020_17_07_57</td>
+<td><a href="./Custom/TestCase11.html">TestCase</a></td>
+</tr><tr>
+<td>LI2</td>
+<td>08_06_2020_17_07_57</td>
+<td>08_06_2020_17_08_18</td>
+<td><a href="./Custom/TestCase12.html">TestCase</a></td>
+</tr><tr>
+<td>LI3</td>
+<td>08_06_2020_17_08_18</td>
+<td>08_06_2020_17_08_37</td>
+<td><a href="./Custom/TestCase13.html">TestCase</a></td>
+</tr><tr>
+<td>LI4</td>
+<td>08_06_2020_17_08_37</td>
+<td>08_06_2020_17_08_55</td>
+<td><a href="./Custom/TestCase14.html">TestCase</a></td>
+</tr><tr>
+<td>LI5</td>
+<td>08_06_2020_17_08_55</td>
+<td>08_06_2020_17_09_14</td>
+<td><a href="./Custom/TestCase15.html">TestCase</a></td>
+</tr></table><script type="text/javascript">
+window.onload = function () {
+
+var chart = new CanvasJS.Chart("chartContainer", {
+	theme: "light1", // "light2", "dark1", "dark2", "light1" etc.
+	animationEnabled: true, // change to true		
+	title:{
+		text: ""
+	},
+	data: [
+	{
+		// Change type to "bar", "area", "spline", "pie", "column"etc.
+		type: "pie",
+		dataPoints: [{ label: "FbInvalid1",  y: 1  },{ label: "FbInvalid2",  y: 1  },{ label: "FbInvalid3",  y: 1  },{ label: "FbInvalid4",  y: 1  },{ label: "FbInvalid5",  y: 1  },{ label: "NewTour1",  y: 1  },{ label: "NewTour2",  y: 1  },{ label: "NewTour3",  y: 1  },{ label: "NewTour4",  y: 1  },{ label: "NewTour5",  y: 1  },{ label: "LI1",  y: 1  },{ label: "LI2",  y: 1  },{ label: "LI3",  y: 1  },{ label: "LI4",  y: 1  },{ label: "LI5",  y: 1  },		]
+	}
+	]
+});
+chart.render();
+
+}
+</script>
+<div id="chartContainer" style="height: 250px; width: 100%;"></div>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"> </script></body></html>
