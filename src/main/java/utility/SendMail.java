@@ -26,8 +26,8 @@ public class SendMail {
 	 */
 	public static void sendMail(String from, String to, String fileName) {
 
-		final String username = "nehamishraj01@gmail.com";// change accordingly
-		final String password = "9412251900";// change accordingly
+		final String username = "abc@gmail.com";// change accordingly
+		final String password = "password";// change accordingly
 
 		Properties props = new Properties();
 
